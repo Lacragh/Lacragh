@@ -7,8 +7,11 @@
 ## 🚀 About Me
 
 💡 I love creating **tech solutions that blend creativity, logic, and artificial intelligence**.
+
 🧠 Currently exploring **NestJS**, **React**, **FastAPI**, and **intelligent data-driven projects**.
+
 🌍 I believe in the power of technology to **solve real-world problems** and **make people’s lives better**.
+
 🎨 When I’m not coding, I enjoy learning about **UX/UI design** and experimenting with **interactive projects**.
 
 ---
