@@ -45,7 +45,7 @@
 
 ## 💬 Quote that represents me
 
-> “You don’t have to be a genius — you just need the courage to think like one.**.”
+> You don’t have to be a genius — you just need the courage to think like one.
 
 ---
 
