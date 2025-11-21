@@ -1,22 +1,22 @@
 # 👋 Hey there, I'm Victor Manuel Garzón Meneses!
 
-🎯 **System Engineering Student | Aspiring Developer | Passionate about AI, Innovation & Building Tech that Inspires.**
+   **System Engineering Student | Aspiring Developer | Passionate about AI, Innovation & Building Tech that Inspires.**
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-💡 I love creating **tech solutions that blend creativity, logic, and artificial intelligence**.
+   I love creating **tech solutions that blend creativity, logic, and artificial intelligence**.
 
-🧠 Currently exploring **NestJS**, **React**, **FastAPI**, and **intelligent data-driven projects**.
+   Currently exploring **NestJS**, **React**, **FastAPI**, and **intelligent data-driven projects**.
 
-🌍 I believe in the power of technology to **solve real-world problems** and **make people’s lives better**.
+   I believe in the power of technology to **solve real-world problems** and **make people’s lives better**.
 
-🎨 When I’m not coding, I enjoy learning about **UX/UI design** and experimenting with **interactive projects**.
+   When I’m not coding, I enjoy learning about **UX/UI design** and experimenting with **interactive projects**.
 
 ---
 
-## 🛠️ Technologies I Work With
+##  Technologies I Work With
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 
@@ -43,17 +43,17 @@
 
 ---
 
-## 💬 Quote that represents me
+##  Quote that represents me
 
 > You don’t have to be a genius — you just need the courage to think like one.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/victor-manuel-garzon-meneses-a49999255/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=fff)](mailto:victor.garzon9043@gmail.com)
 
 ---
 
-⭐ *If you found something interesting here, don’t forget to leave a star or connect with me! Always open to learning and collaborating.* 🌟
+ *If you found something interesting here, don’t forget to leave a star or connect with me! Always open to learning and collaborating.* 
