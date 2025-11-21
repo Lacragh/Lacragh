@@ -1,6 +1,6 @@
-# I'm Software Engineering
+# Quick View
 
-   **System Engineering Student | Aspiring Developer | Passionate about AI, Innovation & Building Tech that Inspires.**
+   **Software Engineering Student | Aspiring Developer | Passionate about AI, Innovation & Building Tech that Inspires.**
 
 ---
 
